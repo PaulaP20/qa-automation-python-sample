@@ -25,3 +25,5 @@ pip install -r requirements.txt
 Run tests:
 
 pytest
+
+![Tests](https://github.com/PaulaP20/qa-automation-python-sample/actions/workflows/python-tests.yml/badge.svg)
